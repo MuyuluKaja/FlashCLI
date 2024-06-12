@@ -1,7 +1,28 @@
 # FlashCLI 
 #### This is a project I had made for an outreach program called 'Pathways to Bath'.
 #### In this file I'll be going through the issues I've had in this files creation and also what went well (WWW and EBI)
-## The Project itself
+
+## Requirements
+Install [.NET SDK](https://dotnet.microsoft.com/en-us/download)
+
+
+## How to Run the program
+Clone the repository:
+```
+git clone https://github.com/MuyuluKaja/FlashCLI.git
+```
+
+Open Repository:
+```
+cd FlashCLI
+```
+
+Run file:
+```
+dotnet run Program.cs
+```
+
+## About The Project itself
 Based on what I had specified in my Project's Outline, this program is intended to implement concepts to amplify memory 
 based revision using rewards. Essentially, the program is supposed to incorporate rewards based on your performance and engagement 
 with doing the flashcards. The concepts used in this project are 'spaced repetition' and 'reward based revision'.
