@@ -2,6 +2,23 @@
 #### This is a project I had made for an outreach program called 'Pathways to Bath'.
 #### In this file I'll be going through the issues I've had in this files creation and also what went well (WWW and EBI), my future plans for this project and how it can be installed and used.
 
+
+## Table of Contents
+* [FlashCLI](#flashcli)
+    * [About The Project itself](#about-the-project-itself)
+        * [What is Spaced Repetition?](#what-is-spaced-repetition)
+        * [What do I mean by incoporating rewards?](#what-do-i-mean-by-incoporating-rewards)
+    * [WWW (What went well)](#www-what-went-well)
+    * [Issues + (Further Development/Future Plans)](#issues-further-developmentfuture-plans)
+        * [Issues:](#issues)
+    * [References Used:](#references-used)
+* [Requirements](#requirements)
+* [How to Run the program](#how-to-run-the-program)
+
+
+
+
+
 ## Requirements
 Install [.NET SDK](https://dotnet.microsoft.com/en-us/download)
 
