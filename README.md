@@ -4,16 +4,18 @@
 
 
 ## Table of Contents
+
 * [FlashCLI](#flashcli)
-    * [About The Project itself](#about-the-project-itself)
-        * [What is Spaced Repetition?](#what-is-spaced-repetition)
-        * [What do I mean by incoporating rewards?](#what-do-i-mean-by-incoporating-rewards)
-    * [WWW (What went well)](#www-what-went-well)
-    * [Issues + (Further Development/Future Plans)](#issues-further-developmentfuture-plans)
-        * [Issues:](#issues)
-    * [References Used:](#references-used)
 * [Requirements](#requirements)
 * [How to Run the program](#how-to-run-the-program)
+* [About the project itself](#about-the-project-itself)
+    * [What is Spaced Repetition?](#what-is-spaced-repetition)
+    * [What do I mean by incoporating rewards?](#what-do-i-mean-by-incoporating-rewards)
+* [WWW (What went well)](#www-what-went-well)
+* [Issues + Further Developments](#issues-further-developmentfuture-plans)
+    * [Issues:](#issues)
+    * [Future Plans](#future-plans)
+* [References Used](#references-used)
 
 
 
