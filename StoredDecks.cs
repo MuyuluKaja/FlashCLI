@@ -47,8 +47,7 @@ public class StoredDecks
             Console.WriteLine("Deck '{0}' does not exist. Create a deck first.", deckName);
             return;
         }
-        
-        
+   
         //Stores the front and back of the flashcard in 'question' and 'answer'
         Console.WriteLine("Enter question for the new flashcard:");
         string question = Console.ReadLine();

@@ -83,9 +83,27 @@ class FlashCliApp
                     Console.WriteLine("Select in which Deck:");
                     //The method 'GetExistingDecks' outputs the decks that the user has created
                     Decks.GetExistingDecks();
-                    //The SelectedDeck is then passed as an argument into the 'CreateFlashcards' method
+                    //The deck the user selects is stored 
                     string SelectedDeck = Console.ReadLine();
-                    Decks.CreateFlashcards(SelectedDeck);
+                    // Initiates loop for the user to keep adding flashcards
+                    while (true)
+                    { 
+                        //The SelectedDeck is then passed into the 'CreateFlashcards' method
+                        Decks.CreateFlashcards(SelectedDeck);
+                        // Asks user if they want to keep adding flashcards
+                        Console.WriteLine("Keep adding flashcards? (y/n)");
+                        // Continues (y) or exists (n) based on answer
+                        string keepAdding = Console.ReadLine().ToLower();
+                        if (keepAdding == "n")
+                        {
+                            break;
+                        }
+                        else
+                        {
+                            
+                        }
+                    }
+
                     break;
                 
                 //This is the third case in which the user can do the flashcards
