@@ -1,6 +1,6 @@
 # FlashCLI 
 #### This is a project I had made for an outreach program called 'Pathways to Bath'.
-#### In this file I'll be going through the issues I've had in this files creation and also what went well (WWW and EBI)
+#### In this file I'll be going through the issues I've had in this files creation and also what went well (WWW and EBI), my future plans for this project and how it can be installed and used.
 
 ## Requirements
 Install [.NET SDK](https://dotnet.microsoft.com/en-us/download)
